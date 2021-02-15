@@ -9,7 +9,9 @@ img{
 
 .main-container{
     position: relative;
-    /* background-color: grey; */
+    margin: 0 auto;
+    width: 700px;
+
 }
 
 .lazer-container{
